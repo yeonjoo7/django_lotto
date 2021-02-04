@@ -1,0 +1,18 @@
+/* css폴더를 더 세분화하기도 하지만 지금은 단순한 버전으로 함*/
+
+.page-header {
+   background-color: #652596;
+   /* 부트스트랩 기본이 마진 적용되어 있어서 바꾸는 거임*/
+   margin-top: 0;
+   padding: 20px 20px 20px 40px;
+   font-family: 'Space Mono', monospace;
+}
+.page-header h1 {
+ color: #FFFFFF;
+}
+.container {
+ font-family: 'Space Mono', monospace;
+}
+.container h2 {
+ color: #B9F442;
+}
